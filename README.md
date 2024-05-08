@@ -68,6 +68,50 @@ Adherence to evolving regulations is crucial for seamlessly and efficiently inco
 * Garg, P., Srivastava, S.K.: Life detection system during natural calamity. In: 2016 Second International Conference on Computational Intelligence Communication Technology (CICT), pp. 602–604 (2016). https://doi.org/10.1109/CICT.2016.125
 * Okutani, K., Yoshida, T., Nakamura, K., Nakadai, K.: Outdoor auditory scene analysis using a moving microphone array embedded in a quadrocopter. In:2012 IEEE/RSJ International Conference on Intelligent Robots and Systems,pp. 3288–3293 (2012). https://doi.org/10.1109/IROS.2012.6385994
 
+## LoRa and wireless sensor network technology
+* Tuna, G., Gungor, V.C., Gulez, K.: An autonomous wireless sensor network deployment system using mobile robots for human existence detection in case of disasters. Ad Hoc Networks 13, 54–68 (2014) https://doi.org/10.1016/j.adhoc.2012.06.006 . (1)Special Issue : Wireless Technologies for Humanitarian Relief (2)Special Issue: Models And Algorithms For Wireless Mesh Networks
+* Jawhar, I., Mohamed, N., Al-Jaroodi, J., Agrawal, D.P., Zhang, S.: Communication and networking of uav-based systems: Classification and associated architectures. Journal of Network and Computer Applications 84, 93–108 (2017) https://doi.org/10.1016/j.jnca.2017.02.008
+* Erdelj, M., Krol, M., Natalizio, E.: Wireless sensor networks and multi-uav systems for natural disaster management. Computer Networks 124, 72–86 (2017) https://doi.org/10.1016/j.comnet.2017.05.021
+* Khalifeh, A., Abid, H., Darabkh, K.A.: Optimal cluster head positioning algorithm for wireless sensor networks. Sensors (Basel) 20(13) (2020)
+
+## Cellphone signal detection
+* Avanzato, R., Beritelli, F.: A smart uav-femtocell data sensing system for post earthquake localization of people. IEEE Access 8, 30262–30270 (2020) https://doi.org/10.1109/ACCESS.2020.2972699
+* Avanzato, R., Beritelli, F.: An innovative technique for identification of missing persons in natural disaster based on drone-femtocell systems. Sensors 19(20) (2019) https://doi.org/10.3390/s19204547
+* Dorn, C., Depold, A., Lurz, F., Erhardt, S., Hagelauer, A.: Uav-based localization of mobile phones for search and rescue applications. In: 2022 IEEE 22nd  Annual Wireless and Microwave Technology Conference (WAMICON), pp. 1–4 (2022). https://doi.org/10.1109/WAMICON53991.2022.9786189
+* Gao, Y., Deng, Z., Zhang, Y., Sun, S., Li, Z.: Mobile phone passive positioning through the detection of uplink signals for search and rescue. Sensors 19(20) (2019) https://doi.org/10.3390/s19204526
+* Shahzadi, R., Ali, M., Khan, H.Z., Naeem, M.: Uav assisted 5g and beyond wireless networks: A survey. Journal of Network and Computer Applications 189, 103114 (2021) https://doi.org/10.1016/j.jnca.2021.103114
+* Murphy, S.O., Sreenan, C., Brown, K.N.: Autonomous unmanned aerial vehicle for search and rescue using software defined radio. In: 2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), pp. 1–6 (2019). https://doi.org/10.1109/VTCSpring.2019.8746312
+* Lyu, M., Zhao, Y., Huang, C., Huang, H.: Unmanned aerial vehicles for search and rescue: A survey. Remote Sensing 15(13) (2023) https://doi.org/10.3390/rs15133266
+* Dorn, C., Depold, A., Lurz, F., Erhardt, S., Hagelauer, A.: Uav-based localization of mobile phones for search and rescue applications. In: 2022 IEEE 22nd Annual Wireless and Microwave Technology Conference (WAMICON), pp. 1–4 (2022). https://doi.org/10.1109/WAMICON53991.2022.9786189
+* Steinhausler, F., Georgiou, H.V.: Detection of victims with uavs during wide area search and rescue operations. In: 2022 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), pp. 14–19 (2022). https://doi.org/10.1109/SSRR56537.2022.10018756
+*Nasr, I., Chekir, M., Besbes, H.: Shipwrecked victims localization and tracking using uavs. In: 2019 15th International Wireless Communications Mobile Com1069
+puting Conference (IWCMC), pp. 1344–1348 (2019). https://doi.org/10.1109/IWCMC.2019.8766534 
+
+## Technology of radar
+* Albanese, A., Sciancalepore, V., Costa-P´erez, X.: Sardo: An automated search and-rescue drone-based solution for victims localization. IEEE Transactions on Mobile Computing 21(9), 3312–3325 (2022) https://doi.org/10.1109/TMC.2021.3051273
+* Solaiman, S., Alsuwat, E., Alharthi, R.: Simultaneous tracking and recognizing drone targets with millimeter-wave radar and convolutional neural network. Applied System Innovation 6(4) (2023) https://doi.org/10.3390/asi6040068
+* Jing, Y., Qi, F., Yang, F., Cao, Y., Zhu, M., Li, Z., Lei, T., Xia, J., Wang,J., Lu, G.: Respiration detection of ground injured human target using uwb radar mounted on a hovering uav. Drones 6(9) (2022) https://doi.org/10.3390/drones6090235
+* Ma, H., Wang, J., Sun, X., Jin, W.: Integrated waveform design based on uav mimo joint radar communication. Information 14(8) (2023) https://doi.org/10.3390/info14080455
+* Chandra, M., Tanzi, T.J.: Drone-borne gpr design: Propagation issues. Comptes Rendus Physique 19(1), 72–84 (2018) https://doi.org/10.1016/j.crhy.2018.01.002 . Radio science for Humanity / Radiosciences au service de l’humanit´e Journ´ees scientifiques URSI-France 2017 – SophiaTech, Sophia Antipolis, France,1–3 February 2017 / 1er–3 mars 2017
+
+## Sensors and technology IoT
+
+* Ejaz, W., Azam, M.A., Saadat, S., Iqbal, F., Hanan, A.: Unmanned aerial vehicles enabled iot platform for disaster management. Energies 12(14) (2019) https://doi.org/10.3390/en12142706
+* Jon´ca, J., Pawnuk, M., Bezyk, Y., Arsen, A., So´wka, I.: Drone-assisted monitoring of atmospheric pollution dash;a comprehensive review. Sustainability 14(18) (2022) https://doi.org/10.3390/su141811516
+* Ackerman, E., Strickland, E.: Medical delivery drones take flight in east Africa. IEEE Spectrum 55(1), 34–35 (2018) https://doi.org/10.1109/MSPEC.2018.8241731
+* Alsamhi, S.H., Afghah, F., Sahal, R., Hawbani, A., Al-qaness, M.A.A., Lee, B., Guizani, M.: Green internet of things using uavs in b5g networks: A review of applications and strategies. Ad Hoc Networks 117, 102505 (2021) https://doi.org/10.1016/j.adhoc.2021.102505
+* Labib, N.S., Brust, M.R., Danoy, G., Bouvry, P.: The rise of drones in internet of things: A survey on the evolution, prospects and challenges of unmanned aerial vehicles. IEEE Access 9, 115466–115487 (2021) https://doi.org/10.1109/ACCESS.2021.3104963
+* Marchese, M., Moheddine, A., Patrone, F.: Iot and uav integration in 5g hybrid terrestrial-satellite networks. Sensors 19(17) (2019) https://doi.org/10.3390/s19173704
+
+## Sensors and technology for healthcare
+
+* Rong, Y., Herschfelt, A., Holtom, J., Bliss, D.W.: Cardiac and respiratory sensing from a hovering uav radar platform. In: 2021 IEEE Statistical Signal Processing Workshop (SSP), pp. 541–545 (2021). https://doi.org/10.1109/SSP49050.2021.9513771
+* Naren, N., Chamola, V., Baitragunta, S., Chintanpalli, A., Mishra, P., Yenu ganti, S., Guizani, M.: Iomt and dnn-enabled drone-assisted covid-19 screening and detection framework for rural areas. IEEE Internet of Things Magazine 4(2),4–9 (2021) https://doi.org/10.1109/IOTM.0011.2100053
+* Rong, Y., Herschfelt, A., Holtom, J., Bliss, D.W.: Cardiac and respiratory sensing from a hovering uav radar platform. In: 2021 IEEE Statistical Signal Processing Workshop (SSP), pp. 541–545 (2021). https://doi.org/10.1109/SSP49050.2021.9513771
+* Baumgarten, M.C., Ro¨per, J., Hahnenkamp, K., Thies, K.-C.: Drones delivering automated external defibrillators—integrating unmanned aerial systems into the chain of survival: A simulation study in rural germany. Resuscitation 172, 139–145 (2022) https://doi.org/10.1016/j.resuscitation.2021.12.025
+* Cawthorne, D., Wynsberghe, A.R.-V.: From healthdrone to frugal drone: Value sensitive design of a blood sample transportation drone. In: 2019 IEEE International Symposium on Technology and Society (ISTAS), pp. 1–7 (2019).https://doi.org/10.1109/ISTAS48451.2019.8938019
+* Chamola, V., Hassija, V., Gupta, V., Guizani, M.: A comprehensive review of the covid-19 pandemic and the role of iot, drones, ai, blockchain, and 5g in managing its impact. IEEE Access 8, 90225–90265 (2020) https://doi.org/10.1109/ACCESS.2020.2992341
+
 
 
 
