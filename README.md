@@ -13,8 +13,8 @@ Adherence to evolving regulations is crucial for seamlessly and efficiently inco
 
 # UAV classification and design for SAR missions
 
-* Item 1
-* Item 2
-* Item 3
-  * Sub Item A
-  * Sub Item B
+* Jetley, P., Sujit, P.B., Saripalli, S.: Safe landing of fixed wing uavs. In: 2017 47th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W), pp. 2–9 (2017). https://doi.org/10.1109/DSN-W.
+* Zhu, X., Vanegas, F., Gonzalez, F., Sanderson, C.: A multi-uav system for exploration and target finding in cluttered and gps-denied environments. In: 2021 International Conference on Unmanned Aircraft Systems (ICUAS), pp. 721–729 (2021). https://doi.org/10.1109/ICUAS51884.2021.9476820
+* Peter, H., Laszlo, D., Janos, V.P.: Civilian use of drones in the life of mining rescue helicopters. In: 2016 IEEE 17th International Symposium on Computational Intelligence and Informatics (CINTI), pp. 000299–000302 (2016). https://doi.org/10.1109/CINTI.2016.7846422
+* E, V., A, R., P, S., Selvaraj, P.: Design of hybrid uav with multi-rotor propulsion system. In: 2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS), vol. 1, pp. 1798–1802 (2023). https://doi.org/10.1109/ICACCS57279.2023.10113123
+
