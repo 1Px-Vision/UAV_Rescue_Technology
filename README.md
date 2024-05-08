@@ -114,7 +114,7 @@ puting Conference (IWCMC), pp. 1344–1348 (2019). https://doi.org/10.1109/IWCMC
 
 # UAV intelligent ambulance-based system
 
-*Baumgarten, M.C., Ro¨per, J., Hahnenkamp, K., Thies, K.-C.: Drones delivering automated external defibrillators—integrating unmanned aerial systems into the chain of survival: A simulation study in rural germany. Resuscitation 172, 139–145 (2022) https://doi.org/10.1016/j.resuscitation.2021.12.025 
+* Baumgarten, M.C., Ro¨per, J., Hahnenkamp, K., Thies, K.-C.: Drones delivering automated external defibrillators—integrating unmanned aerial systems into the chain of survival: A simulation study in rural germany. Resuscitation 172, 139–145 (2022) https://doi.org/10.1016/j.resuscitation.2021.12.025 
 * Singh, A., Kumar, P., Pachauri, K., Singh, K.: Drone ambulance. In: 2020 2nd International Conference on Advances in Computing, Communication Control and Networking (ICACCCN), pp. 705–708 (2020). https://doi.org/10.1109/ICACCCN51052.2020.9362879
 * Bayanbay, N.A., Beisembetov, I.K., Ozhikenov, K.A., Bezborodova, O.E., Bodin, O.N., Polosin, V.G.: The use of unmanned aerial vehicle for emergency medical assistance. In: 2019 20th International Conference of Young Specialists on Micro/Nanotechnologies and Electron Devices (EDM), pp. 597–600 (2019).https://doi.org/10.1109/EDM.2019.8823214
 * van Veelen, M.J., Roveri, G., Voegele, A., Cappello, T.D., Mas`e, M., Falla, M., Regli, I.B., Mejia-Aguilar, A., Mayrgu¨ndter, S., Strapazzon, G.: Drones reduce the treatment-free interval in search and rescue operations with telemedical support – a randomized controlled trial. The American Journal of Emergency Medicine 66, 40–44 (2023) https://doi.org/10.1016/j.ajem.2023.01.020
