@@ -54,3 +54,21 @@ Adherence to evolving regulations is crucial for seamlessly and efficiently inco
 * Takano, H., Nakahara, M., Suzuoki, K., Nakayama, Y., Hisano, D.: 300-meter long-range optical camera communication on rgb-led-equipped drone and object detecting camera. IEEE Access 10, 55073–55080 (2022) https://doi.org/10.1109/ACCESS.2022.3177140
 * Yao, H., Qin, R., Chen, X.: Unmanned aerial vehicle for remote sensing applications—a review. Remote Sensing 11(12) (2019) https://doi.org/10.3390/rs11121443
 * AlAli, Z.T., Alabady, S.A.: A survey of disaster management and sar operations using sensors and supporting techniques. International Journal of Disaster Risk Reduction 82, 103295 (2022) https://doi.org/10.1016/j.ijdrr.2022.103295
+* Al-Naji, A., Perera, A.G., Mohammed, S.L., Chahl, J.: Life signs detector using a drone in disaster zones. Remote Sensing 11(20) (2019) https://doi.org/10.3390/rs11202441
+* Aoyama, H., Himoto, A., Misumi, R., Fuchiwaki, O., Misaki, D., Sum rall, T.: Micro hopping robot with ir sensor for disaster survivor detection, vol. 2005, pp. 189–194 (2005). https://doi.org/10.1109/SSRR.2005.1501249 .https://doi.org/10.1109/SSRR.2005.1501249
+* Bejiga, M.B., Zeggada, A., Melgani, F.: Convolutional neural networks for near real-time object detection from uav imagery in avalanche search and rescue operations. In: 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), pp. 693–696 (2016). https://doi.org/10.1109/IGARSS.2016.7729174
+* Bostelman, R., Hong, T., Madhavan, R., Weiss, B.: 3d range imaging for urban search and rescue robotics research. In: IEEE International Safety, Security and Rescue Robotics, Workshop, 2005., pp. 164–169 (2005). https://doi.org/10.1109/SSRR.2005.1501254
+* Dufek, J., Murphy, R.: Visual pose estimation of usv from uav to assist drowning victims recovery. In: 2016 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), pp. 147–153 (2016). https://doi.org/10.1109/SSRR.2016.7784291
+
+## Auditory system
+
+* Sun, H., Yang, P., Liu, Z., Zu, L., Xu, Q.: Microphone array based auditory localization for rescue robot. In: 2011 Chinese Control and Decision Conference (CCDC), pp. 606–609 (2011). https://doi.org/10.1109/CCDC.2011.5968253
+* Wakabayashi, M., Washizaka, K., Hoshiba, K., Nakadai, K., Okuno, H.G., Kumon, M.: Design and implementation of real-time visualization of sound source positions by drone audition. In: 2020 IEEE/SICE International Symposium on System Integration (SII), pp. 814–819 (2020). https://doi.org/10.1109/SII46433.2020.9025940
+* Hoshiba, K., Washizaki, K., Wakabayashi, M., Ishiki, T., Kumon, M., Bando, Y., Gabriel, D., Nakadai, K., Okuno, H.G.: Design of uav-embedded microphone array system for sound source localization in outdoor environments. Sensors 17(11) (2017) https://doi.org/10.3390/s17112535
+* Garg, P., Srivastava, S.K.: Life detection system during natural calamity. In: 2016 Second International Conference on Computational Intelligence Communication Technology (CICT), pp. 602–604 (2016). https://doi.org/10.1109/CICT.2016.125
+* Okutani, K., Yoshida, T., Nakamura, K., Nakadai, K.: Outdoor auditory scene analysis using a moving microphone array embedded in a quadrocopter. In:2012 IEEE/RSJ International Conference on Intelligent Robots and Systems,pp. 3288–3293 (2012). https://doi.org/10.1109/IROS.2012.6385994
+
+
+
+
+
