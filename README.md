@@ -30,7 +30,7 @@ Adherence to evolving regulations is crucial for seamlessly and efficiently inco
 * Malandrino, F., Rottondi, C., Chiasserini, C.-F., Bianco, A., Stavrakakis, I.: Multiservice uavs for emergency tasks in post-disaster scenarios. In: Proceedings of the ACM MobiHoc Workshop on Innovative Aerial Communication Solutions for FIrst REsponders Network in Emergency Scenarios. iFIRE ’19, pp. 18–23.Association for Computing Machinery, New York, NY, USA (2019). https://doi.org/10.1145/3331053.3335032 . https://doi.org/10.1145/3331053.3335032
 
 # UAVs sensor technologies Rescue
-## Vision System
+
 * Boccardo, P., Chiabrando, F., Dutto, F., Tonolo, F.G., Lingua, A.: Uav deployment exercise for mapping purposes: Evaluation of emergency response applications. Sensors 15(7), 15717–15737 (2015) https://doi.org/10.3390/s150715717
 * Wang, S., Wang, X., Dou, A., Yuan, X., Ding, L., Ding, X.: Near real-time georeference of umanned aerial vehicle images for post-earthquake response. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences XLII-3, 1773–1776 (2018) https://doi.org/10.5194/isprs-archives-XLII-3-1773-2018
 * Duo, E., Trembanis, A.C., Dohner, S., Grottoli, E., Ciavola, P.: Local-scale post-event assessments with gps and uav-based quick-response surveys: a pilot case from the emilia–romagna (italy) coast. Natural Hazards and Earth System Sciences 18(11), 2969–2989 (2018) https://doi.org/10.5194/nhess-18-2969-2018
@@ -49,4 +49,8 @@ Adherence to evolving regulations is crucial for seamlessly and efficiently inco
 * Perdana, M.I., Risnumawan, A., Sulistijono, I.A.: Automatic aerial victim detection on low-cost thermal camera using convolutional neural network. In: 2020 International Symposium on Community-centric Systems (CcS), pp. 1–5 (2020).https://doi.org/10.1109/CcS49175.2020.9231433
 * Kong, W., Zhang, D., Zhang, J.: A ground-based multi-sensor system for autonomous landing of a fixed wing uav. In: 2015 IEEE International Conference on Robotics and Biomimetics (ROBIO), pp. 1303–1310 (2015). https://doi.org/10.1109/ROBIO.2015.7418951
 
+## Vision System
 
+* Takano, H., Nakahara, M., Suzuoki, K., Nakayama, Y., Hisano, D.: 300-meter long-range optical camera communication on rgb-led-equipped drone and object detecting camera. IEEE Access 10, 55073–55080 (2022) https://doi.org/10.1109/ACCESS.2022.3177140
+* Yao, H., Qin, R., Chen, X.: Unmanned aerial vehicle for remote sensing applications—a review. Remote Sensing 11(12) (2019) https://doi.org/10.3390/rs11121443
+* AlAli, Z.T., Alabady, S.A.: A survey of disaster management and sar operations using sensors and supporting techniques. International Journal of Disaster Risk Reduction 82, 103295 (2022) https://doi.org/10.1016/j.ijdrr.2022.103295
