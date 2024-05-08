@@ -18,3 +18,14 @@ Adherence to evolving regulations is crucial for seamlessly and efficiently inco
 * Peter, H., Laszlo, D., Janos, V.P.: Civilian use of drones in the life of mining rescue helicopters. In: 2016 IEEE 17th International Symposium on Computational Intelligence and Informatics (CINTI), pp. 000299–000302 (2016). https://doi.org/10.1109/CINTI.2016.7846422
 * E, V., A, R., P, S., Selvaraj, P.: Design of hybrid uav with multi-rotor propulsion system. In: 2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS), vol. 1, pp. 1798–1802 (2023). https://doi.org/10.1109/ICACCS57279.2023.10113123
 
+# Multi-UAV collaboration for SAR mission
+
+* Song, H., Yu, J., Qiu, J., Sun, Z., Lang, K., Luo, Q., Shen, Y., Wang, Y.: Multi857 uav disaster environment coverage planning with limited-endurance. In: 2022 International Conference on Robotics and Automation (ICRA), pp. 10760–10766 (2022). https://doi.org/10.1109/ICRA46639.2022.9812201
+* Garg, A., Jha, S.S.: Directed explorations during flood disasters using multi-uav system. In: 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), pp. 2154–2161 (2022). https://doi.org/10.1109/CASE49997.2022.9926454
+* Hong, Y., Jung, S., Kim, S., Cha, J.: Autonomous mission of multi-uav for optimal area coverage. Sensors 21(7) (2021) https://doi.org/10.3390/s21072482
+* Alotaibi, E.T., Alqefari, S.S., Koubaa, A.: Lsar: Multi-uav collaboration for search and rescue missions. IEEE Access 7, 55817–55832 (2019) https://doi.org/10.1109/ACCESS.2019.2912306
+* Kurdi, H., AlDaood, M.F., Al-Megren, S., Aloboud, E., Aldawood, A.S., Youcef-Toumi, K.: Adaptive task allocation for multi-uav systems based on bacteria foraging behaviour. Applied Soft Computing 83, 105643 (2019) https://doi.org/10.1016/j.asoc.2019.105643
+* Kurdi, H., How, J., Bautista, G.: Bio-Inspired Algorithm for Task Allocation in Multi-UAV Search and Rescue Missions. https://doi.org/10.2514/6.2016-1377 .https://arc.aiaa.org/doi/abs/10.2514/6.2016-1377
+* Zhou, Y., Rao, B., Wang, W.: Uav swarm intelligence: Recent advances and future trends. IEEE Access 8, 183856–183878 (2020) https://doi.org/10.1109/ACCESS.2020.3028865
+* Malandrino, F., Rottondi, C., Chiasserini, C.-F., Bianco, A., Stavrakakis, I.: Multiservice uavs for emergency tasks in post-disaster scenarios. In: Proceedings of the ACM MobiHoc Workshop on Innovative Aerial Communication Solutions for FIrst REsponders Network in Emergency Scenarios. iFIRE ’19, pp. 18–23.Association for Computing Machinery, New York, NY, USA (2019). https://doi.org/10.1145/3331053.3335032 . https://doi.org/10.1145/3331053.3335032
+  
