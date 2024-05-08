@@ -109,9 +109,20 @@ puting Conference (IWCMC), pp. 1344–1348 (2019). https://doi.org/10.1109/IWCMC
 * Naren, N., Chamola, V., Baitragunta, S., Chintanpalli, A., Mishra, P., Yenu ganti, S., Guizani, M.: Iomt and dnn-enabled drone-assisted covid-19 screening and detection framework for rural areas. IEEE Internet of Things Magazine 4(2),4–9 (2021) https://doi.org/10.1109/IOTM.0011.2100053
 * Rong, Y., Herschfelt, A., Holtom, J., Bliss, D.W.: Cardiac and respiratory sensing from a hovering uav radar platform. In: 2021 IEEE Statistical Signal Processing Workshop (SSP), pp. 541–545 (2021). https://doi.org/10.1109/SSP49050.2021.9513771
 * Baumgarten, M.C., Ro¨per, J., Hahnenkamp, K., Thies, K.-C.: Drones delivering automated external defibrillators—integrating unmanned aerial systems into the chain of survival: A simulation study in rural germany. Resuscitation 172, 139–145 (2022) https://doi.org/10.1016/j.resuscitation.2021.12.025
-* Cawthorne, D., Wynsberghe, A.R.-V.: From healthdrone to frugal drone: Value sensitive design of a blood sample transportation drone. In: 2019 IEEE International Symposium on Technology and Society (ISTAS), pp. 1–7 (2019).https://doi.org/10.1109/ISTAS48451.2019.8938019
+* Cawthorne, D., Wynsberghe, A.R.-V.: From health drone to frugal drone: Value sensitive design of a blood sample transportation drone. In: 2019 IEEE International Symposium on Technology and Society (ISTAS), pp. 1–7 (2019).https://doi.org/10.1109/ISTAS48451.2019.8938019
 * Chamola, V., Hassija, V., Gupta, V., Guizani, M.: A comprehensive review of the covid-19 pandemic and the role of iot, drones, ai, blockchain, and 5g in managing its impact. IEEE Access 8, 90225–90265 (2020) https://doi.org/10.1109/ACCESS.2020.2992341
 
+# UAV intelligent ambulance-based system
+
+*Baumgarten, M.C., Ro¨per, J., Hahnenkamp, K., Thies, K.-C.: Drones delivering automated external defibrillators—integrating unmanned aerial systems into the chain of survival: A simulation study in rural germany. Resuscitation 172, 139–145 (2022) https://doi.org/10.1016/j.resuscitation.2021.12.025 
+* Singh, A., Kumar, P., Pachauri, K., Singh, K.: Drone ambulance. In: 2020 2nd International Conference on Advances in Computing, Communication Control and Networking (ICACCCN), pp. 705–708 (2020). https://doi.org/10.1109/ICACCCN51052.2020.9362879
+* Bayanbay, N.A., Beisembetov, I.K., Ozhikenov, K.A., Bezborodova, O.E., Bodin, O.N., Polosin, V.G.: The use of unmanned aerial vehicle for emergency medical assistance. In: 2019 20th International Conference of Young Specialists on Micro/Nanotechnologies and Electron Devices (EDM), pp. 597–600 (2019).https://doi.org/10.1109/EDM.2019.8823214
+* van Veelen, M.J., Roveri, G., Voegele, A., Cappello, T.D., Mas`e, M., Falla, M., Regli, I.B., Mejia-Aguilar, A., Mayrgu¨ndter, S., Strapazzon, G.: Drones reduce the treatment-free interval in search and rescue operations with telemedical support – a randomized controlled trial. The American Journal of Emergency Medicine 66, 40–44 (2023) https://doi.org/10.1016/j.ajem.2023.01.020
+* Van de Voorde, P., Gautama, S., Momont, A., Ionescu, C.M., De Paepe, P., Fraeyman, N.: The drone ambulance [a-uas]: golden bullet or just a blank? Resuscitation 116, 46–48 (2017) https://doi.org/10.1016/j.resuscitation.2017.04.037
+* Johnson, A.M., Cunningham, C.J., Arnold, E., Rosamond,W.D., Z`egre-Hemsey, J.K.: Impact of using drones in emergency medicine: What does the future hold? Open Access Emerg Med 13, 487–498 (2021)
+* Mohamed, R.O.E., Mohamed, S.M.A., Abashar, H.A.E.: Unmanned aerial vehicle intelligent ambulance based system. In: 2020 International Conference on Computer, Control, Electrical, and Electronics Engineering (ICCCEEE), pp. 1–5 (2021). https://doi.org/10.1109/ICCCEEE49695.2021.9429646
+* Roberts, N.B., Ager, E., Leith, T., Lott, I., Mason-Maready, M., Nix, T., Gottula, A., Hunt, N., Brent, C.: Current summary of the evidence in drone1237
+based emergency medical services care. Resuscitation Plus 13, 100347 (2023) https://doi.org/10.1016/j.resplu.2022.100347
 
 
 
