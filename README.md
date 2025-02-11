@@ -4,6 +4,8 @@ In recent years, Unmanned Aerial Systems (UAS) have become crucial for Search an
 
 ![Journal](https://github.com/1Px-Vision/UAV_Rescue_Technology/blob/main/Drone_Rescue_SAR.jpg)
 
+[Journal](https://www.sciencedirect.com/science/article/abs/pii/S2212420925000238?via%3Dihub)
+
 https://github.com/1Px-Vision/UAV_Rescue_Technology/assets/150855410/c14ed134-ab17-46aa-98cd-bd108bf0216f
 
 # UAV classification and design for SAR missions
